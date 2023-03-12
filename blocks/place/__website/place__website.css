@@ -6,3 +6,10 @@
     width: 456px;
     height: 46px;
 }
+
+@media screen and (max-width: 767px) {
+    .place__website {
+      max-width: calc(100% - 2*16px);
+      padding-left: 16px;
+    }
+  }
