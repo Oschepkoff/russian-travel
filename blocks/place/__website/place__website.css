@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-self: flex-end;
-    width: 456px;
+    max-width: 100%;
     height: 46px;
 }
 

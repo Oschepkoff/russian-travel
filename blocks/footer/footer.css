@@ -1,7 +1,6 @@
 .footer {
     margin: 0 auto;
     max-width: calc(100% - 2*48px);
-    height: 18px;
     display: flex;
     justify-content: space-between;
     padding-bottom: 24px;
@@ -17,7 +16,6 @@
     .footer {
         flex-direction: column;
         max-width: calc(100% - 16px);
-        height: 310px;
         padding-left: 16px;
     }
   }
